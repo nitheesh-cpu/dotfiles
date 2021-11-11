@@ -1,0 +1,38 @@
+/* Useful reference: https://www.mankier.com/5/rofi-theme#Layouti */
+
+* {
+    background-color: rgba(40, 42, 54, 0.8);
+    color: #f8f8f2;
+    border-color: #434c5e;
+    margin: 0;
+    padding: 0;
+    spacing: 0;
+
+    /* Enable debug red lines around everything */
+    /* border: 1px; */
+    /* border-color: red; */
+}
+
+prompt {
+    padding: 20 50;
+    background-color: #6272a4;
+}
+
+entry {
+    padding: 10;
+}
+
+case-indicator {
+    padding: 10;
+}
+
+element {
+    padding: 10;
+    border: 2 0 0 0;
+}
+
+element selected {
+    background-color: #44475a;
+}
+
+/* vim:set ft=css */

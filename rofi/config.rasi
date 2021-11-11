@@ -1,0 +1,7 @@
+configuration {
+    dpi: 130;
+    modi: "window,run,drun,ssh";
+    show-icons: false;
+    theme: "nord";
+    font: "Roboto 10";
+}
