@@ -262,7 +262,7 @@ label-foreground = #D8DEE9
 
 [module/wireless-network]
 type = internal/network
-interface = wlp3s0
+interface = wlan0
 
 label-connected = %essid%
 format-connected = <ramp-signal>
