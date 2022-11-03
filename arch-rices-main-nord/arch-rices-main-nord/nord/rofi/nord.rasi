@@ -20,10 +20,6 @@ configuration {
     show-icons:                 false;
 }
 
-/*****----- Global Properties -----*****/
-@import                          "/home/dochi77/.config/rofi/colors/nord.rasi"
-@import                          "/home/dochi77/.config/rofi/powermenu/shared/fonts.rasi"
-
 /*
 USE_ICON=NO
 */
